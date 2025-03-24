@@ -1,0 +1,14 @@
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\bin\Debug\AdminDashboard.dll
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\bin\Debug\AdminDashboard.pdb
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.csproj.AssemblyReference.cache
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.Form1.resources
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.Form3.resources
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.NoticeForm.resources
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.Notices.resources
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.Properties.Resources.resources
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.Form2.resources
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.UploadAttendance.resources
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.csproj.GenerateResource.cache
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.csproj.CoreCompileInputs.cache
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.dll
+E:\deepankita\Manipal\Sem IV\DBMS\DBMS Lab\AdminDashboard\obj\Debug\AdminDashboard.pdb

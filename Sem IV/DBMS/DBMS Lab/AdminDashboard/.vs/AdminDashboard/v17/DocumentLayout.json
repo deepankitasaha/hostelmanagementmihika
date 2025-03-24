@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\admin_dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|solutionrelative:admin_dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\admin_dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|solutionrelative:admin_dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|e:\\deepankita\\manipal\\sem iv\\dbms\\dbms lab\\admindashboard\\studentdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|solutionrelative:studentdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|e:\\deepankita\\manipal\\sem iv\\dbms\\dbms lab\\admindashboard\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|solutionrelative:studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|solutionrelative:studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4060E97-08AA-4FDE-9B34-94C051DCFF47}|AdminDashboard.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\UserControl1.cs [Design]",
+              "RelativeToolTip": "UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:34:42.676Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDetails.Designer.cs",
+              "DocumentMoniker": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\StudentDetails.Designer.cs",
+              "RelativeDocumentMoniker": "StudentDetails.Designer.cs",
+              "ToolTip": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\StudentDetails.Designer.cs",
+              "RelativeToolTip": "StudentDetails.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:42:03.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin_dashboard_Form.cs",
+              "DocumentMoniker": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\Admin_dashboard_Form.cs",
+              "RelativeDocumentMoniker": "Admin_dashboard_Form.cs",
+              "ToolTip": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\Admin_dashboard_Form.cs",
+              "RelativeToolTip": "Admin_dashboard_Form.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:23:35.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDetails.cs [Design]",
+              "DocumentMoniker": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "StudentDetails.cs",
+              "ToolTip": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\StudentDetails.cs [Design]",
+              "RelativeToolTip": "StudentDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:48:20.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin_dashboard_Form.cs [Design]",
+              "DocumentMoniker": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\Admin_dashboard_Form.cs",
+              "RelativeDocumentMoniker": "Admin_dashboard_Form.cs",
+              "ToolTip": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\Admin_dashboard_Form.cs [Design]",
+              "RelativeToolTip": "Admin_dashboard_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:36:33.562Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "StudentDetails.cs",
+              "ToolTip": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\StudentDetails.cs",
+              "RelativeToolTip": "StudentDetails.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA9wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:57:37.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "E:\\deepankita\\Manipal\\Sem IV\\DBMS\\DBMS Lab\\AdminDashboard\\UserControl1.cs",
+              "RelativeToolTip": "UserControl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:34:59.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
